@@ -1,0 +1,39 @@
+# ===========================
+# C++ Build Files
+# ===========================
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# ===========================
+# VS Code
+# ===========================
+.vscode/
+tempCodeRunnerFile.*
+*.code-workspace
+
+# ===========================
+# CMake
+# ===========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# ===========================
+# Logs
+# ===========================
+*.log
+
+# ===========================
+# Windows
+# ===========================
+Thumbs.db
+Desktop.ini
